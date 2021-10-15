@@ -126,7 +126,7 @@ public class Lektsia4 {
                     for (int j = mas2[i].length - 1; j >= 0; j--) {
                         System.out.print(mas2[i][j] + " \t");
                     }
-                    System.out.println();
+                    System.out.println("");
                 }
             }
 
